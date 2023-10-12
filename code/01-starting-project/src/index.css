@@ -10,6 +10,15 @@ html {
 
 body {
   margin: 0;
-  background-color: #3f3f3f;
+  
 }
 
+.content{
+  margin: 2rem auto;
+  text-align: center;
+}
+
+main {
+  margin-top: 7rem;
+  text-align: center;
+}
